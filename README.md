@@ -1,8 +1,8 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/props-react-tutorial/master/props-react-tutorial%20%281%29.png)
+![Tutorial de como usar las PROPS de REACT imagen 1](https://raw.githubusercontent.com/sergiecode/props-react-tutorial/master/props-react-tutorial%20%281%29.png)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/props-react-tutorial/master/props-react-tutorial%20%282%29.png)
+![Tutorial de como usar las PROPS de REACT imagen 2](https://raw.githubusercontent.com/sergiecode/props-react-tutorial/master/props-react-tutorial%20%282%29.png)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/props-react-tutorial/master/props-react-tutorial%20%283%29.png)
+![Tutorial de como usar las PROPS de REACT imagen 3](https://raw.githubusercontent.com/sergiecode/props-react-tutorial/master/props-react-tutorial%20%283%29.png)
 
 # Tutorial de Props en React
 
